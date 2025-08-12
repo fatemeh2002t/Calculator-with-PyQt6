@@ -14,3 +14,9 @@ This calculator supports basic arithmetic operations with a clean, responsive UI
 - Stylish, modern design with hover and pressed button effects
 
 ---
+## Screenshots
+
+![Calculator Screenshot](calculator_pic.png)  
+
+
+---
