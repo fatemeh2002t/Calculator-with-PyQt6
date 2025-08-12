@@ -16,7 +16,7 @@ This calculator supports basic arithmetic operations with a clean, responsive UI
 ---
 ## Screenshots
 
-![Calculator Screenshot](calculator_pic.png)  
+![Calculator Screenshot](calculator_pic.PNG)  
 
 
 ---
