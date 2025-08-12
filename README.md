@@ -19,8 +19,3 @@ This calculator supports basic arithmetic operations with a clean, responsive UI
 
 ![Calculator Screenshot](<img width="557" height="663" alt="calculator_pic" src="https://github.com/user-attachments/assets/f8f246c7-1005-48ae-aea7-5e20edc65f4a" />
 )  
-
----
-
-   git clone https://github.com/your-username/pyqt6-calculator.git
-   cd pyqt6-calculator
